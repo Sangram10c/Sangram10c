@@ -16,7 +16,6 @@
  
 <a href="https://www.instagram.com/invites/contact/?i=1ix8qgyhq97sw&utm_content=3we4i7e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Sangram Chougule" height="30" width="40" /></a>
 <a href="https://www.facebook.com/sangram.chougule.3150" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Sangram Chougule" height="30" width="40" /></a>
-
 <a href="https://www.linkedin.com/in/sangram-chougule-676143262" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sourabh shintre" height="30" width="40" /></a>
 </p>
 
