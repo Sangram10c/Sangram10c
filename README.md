@@ -55,16 +55,16 @@ I'm a passionate software developer from India with a love for creating innovati
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=infinityash3699&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=infinityash3699&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sangram10c&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sangram10c&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=infinityash3699&theme=tokyonight" alt="infinityash3699" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sangram10c&theme=tokyonight" alt="Sangram10c" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=infinityash3699&theme=tokyo-night&hide_border=true" alt="infinityash3699's github activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sangram10c&theme=tokyo-night&hide_border=true" alt="Sangram10c's github activity graph"/>
 </p>
 
 ## 🎯 Goals for 2025
@@ -80,7 +80,7 @@ I'm always excited to collaborate on interesting projects, discuss new technolog
 
 - 💼 **LinkedIn:** [Sangram Chougule ](https://www.linkedin.com/in/sangram-chougule-676143262/)
 - 📧 **Email:** chougulesangram3@gmail.com 
-- 📱 **Instagram:** [@infinit_y_ash](https://www.instagram.com/invites/contact/?i=1ix8qgyhq97sw&utm_content=3we4i7e)
+- 📱 **Instagram:** [@saangram](https://www.instagram.com/invites/contact/?i=1ix8qgyhq97sw&utm_content=3we4i7e)
 - 💬 **Discord:** [Join my server](https://discord.gg/XqtGPJWC)
   
 
