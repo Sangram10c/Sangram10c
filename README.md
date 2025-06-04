@@ -84,7 +84,7 @@ I'm always excited to collaborate on interesting projects, discuss new technolog
 - 💬 **Discord:** [Join my server](https://discord.gg/XqtGPJWC)
   
 
-<h3 align="center">💡 "Code is like humor. When you have to explain it, it's bad." - Cory House</h3>
+
 
 ---
 
