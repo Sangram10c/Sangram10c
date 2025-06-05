@@ -22,7 +22,7 @@ I'm a passionate software developer from India with a love for creating innovati
 - **DevOps:** Docker, Kubernetes, CI/CD pipelines
 - **Cloud:** AWS services, Azure fundamentals
 - **Database:** MongoDB optimization, PostgreSQL
-
+  
 ## 💼 Technical Skills
 
 ### Languages
