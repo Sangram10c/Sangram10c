@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Sangram Chougule </h1>
 <h3 align="center">Full-Stack Developer | Problem Solver</h3>
 <h4 align="center">Passionate about building scalable web applications and exploring cutting-edge technologies</h4>
