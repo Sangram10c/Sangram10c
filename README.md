@@ -59,7 +59,7 @@ I'm a passionate software developer from India with a love for creating innovati
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sangram10c&theme=tokyonight" alt="sangram10c" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sangram10c&theme=tokyonight" alt="sangram10c" />
  
 </p>
 
