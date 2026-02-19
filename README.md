@@ -58,7 +58,8 @@ I'm a passionate software developer from India with a love for creating innovati
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="center">
 <a href="https://github.com/Sangram10c">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sangram10c&theme=aura" height="180em" />
+<img align="center" src="https://readme-stats-fast.vercel.app/api?username=Sangram10c&theme=aura" height="180em" />
+
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sangram10c&theme=aura" height="180em" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sangram10c&theme=aura" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sangram10c&theme=aura" height="180em" />
