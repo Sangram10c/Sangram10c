@@ -1,97 +1,130 @@
-
-<h1 align="center">Hi 👋, I'm Sangram Chougule </h1>
-
-
-<h3 align="center">Full-Stack Developer | Problem Solver</h3>
-
-<h4 align="center">Passionate about building scalable web applications and exploring cutting-edge technologies</h4>
-
-<img align="right" alt="coding" width="400px" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=infinityash3699&label=Profile%20views&color=0e75b6&style=flat" alt="infinityash3699" /> </p>
-
-## 🚀 About Me
-
-I'm a passionate software developer from India with a love for creating innovative solutions and learning new technologies. My journey in tech spans across web development, cloud computing, and software engineering principles. I believe in writing clean, efficient code and building applications that make a difference.
-
-## 🔭 What I'm Currently Working On
-- Building a full-stack e-commerce platform using MERN stack
-- Learning Docker containerization and Kubernetes orchestration
-- Exploring microservices architecture patterns
-- Contributing to open-source projects
-
-## 🌱 Currently Learning
-- **Frontend:** React.js, Next.js, TypeScript
-- **Backend:** Node.js, Express.js, RESTful APIs
-- **DevOps:** Docker, Kubernetes, CI/CD pipelines
-- **Cloud:** AWS services, Azure fundamentals
-- **Database:** MongoDB optimization, PostgreSQL
-  
-## 💼 Technical Skills
-
-### Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-
-### Frontend Development
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-
-### Backend & Database
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-
-
-
-## 📊 GitHub Analytics
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="center">
-<a href="https://github.com/Sangram10c">
-<img align="center" src="https://readme-stats-fast.vercel.app/api?username=Sangram10c&theme=aura" height="180em" />
-
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sangram10c&theme=aura" height="180em" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sangram10c&theme=aura" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sangram10c&theme=aura" height="180em" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:0EA5E9&height=200&section=header&text=Sangram%20Chougule&fontSize=42&fontColor=F8FAFC&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Building%20Products%20That%20Scale&descAlignY=58&descSize=15" alt="header"/>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&lines=Hi%2C+I'm+Sangram+%F0%9F%91%8B;Full-Stack+Developer;I+build+scalable+web+apps;Open+to+collaboration" alt="Typing SVG" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/sangram-chougule-676143262/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:chougulesangram3@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://discord.gg/XqtGPJWC">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  <a href="https://github.com/Sangram10c">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sangram10c&label=Profile%20views&color=0ea5e9&style=for-the-badge" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/Sangram10c?label=Followers&style=for-the-badge&color=1e293b&logo=github" alt="Followers"/>
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+<img align="right" alt="coding" width="320" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
+
+Hey — I'm **Sangram**, a full-stack developer from India who loves shipping clean, scalable products.
+
+- 🔭 Building a full-stack e-commerce platform with the **MERN** stack  
+- 🌱 Learning **Docker**, **Kubernetes**, and microservices  
+- 🧩 Exploring system design & cloud architecture  
+- 🤝 Open to collaboration, mentorship & open source  
+- ⚡ Fun fact: I ship features *and* polish the DX  
+
+<br clear="both"/>
+
+---
+
+## 🚀 Tech Stack
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sangram10c&theme=tokyo-night&hide_border=true" alt="Sangram10c's github activity graph"/>
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,cpp,c,html,css,react,nextjs,tailwind,nodejs,express,mongodb,mysql,postgres,aws,azure,docker,kubernetes,githubactions&perline=11" alt="tech stack"/>
 </p>
 
-## 🎯 Goals for 2025
-- Contribute to 5+ open-source projects
-- Master cloud architecture patterns
-- Build and deploy 3 production-ready applications
-- Obtain AWS Solutions Architect certification
-- Mentor junior developers in my community
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Next.js%20%7C%20Tailwind-0ea5e9?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20Express%20%7C%20REST-22c55e?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Data-MongoDB%20%7C%20MySQL%20%7C%20PostgreSQL-a855f7?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20Azure%20%7C%20Docker-f59e0b?style=flat-square"/>
+</p>
 
-## 💬 Let's Connect!
+---
 
-I'm always excited to collaborate on interesting projects, discuss new technologies, or help fellow developers. Feel free to reach out!
+## 📊 GitHub Analytics
 
-- 💼 **LinkedIn:** [Sangram Chougule ](https://www.linkedin.com/in/sangram-chougule-676143262/)
-- 📧 **Email:** chougulesangram3@gmail.com 
-- 📱 **Instagram:** [@saangram](https://www.instagram.com/invites/contact/?i=1ix8qgyhq97sw&utm_content=3we4i7e)
-- 💬 **Discord:** [Join my server](https://discord.gg/XqtGPJWC)
-  
+<div align="center">
+  <img height="165" src="https://readme-stats-fast.vercel.app/api?username=Sangram10c&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" alt="GitHub stats"/>
+  <img height="165" src="https://streak-stats.demolab.com/?user=Sangram10c&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+</div>
 
+<br/>
 
+<div align="center">
+  <img height="165" src="https://readme-stats-fast.vercel.app/api/top-langs/?username=Sangram10c&layout=compact&theme=tokyonight&hide_border=true&hide=visual%20basic%20.net,scss" alt="Top languages"/>
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sangram10c&theme=radical" alt="Most used languages"/>
+</div>
+
+<br/>
+
+### ⚡ Contribution Activity
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sangram10c&theme=tokyo-night&hide_border=true&area=true" alt="activity graph"/>
+</p>
+
+---
+
+## 🎯 Goals for 2026
+
+| Focus | Target |
+|:------|:-------|
+| 🧩 Open Source | Contribute to **5+** meaningful projects |
+| ☁️ Cloud | Master architecture patterns · earn **AWS Solutions Architect** |
+| 🚀 Shipping | Build & deploy **3** production-ready apps |
+| 👥 Community | Mentor junior developers around me |
+
+---
+
+## 📬 Let's Connect
+
+<p align="center">
+  Always happy to collaborate, talk tech, or help a fellow developer.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sangram-chougule-676143262/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:chougulesangram3@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.instagram.com/invites/contact/?i=1ix8qgyhq97sw&utm_content=3we4i7e">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://discord.gg/XqtGPJWC">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <i>Thanks for stopping by — feel free to ⭐ a repo if something resonates</i>
 </p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:1E293B,100:0F172A&height=100&section=footer" alt="footer"/>
+</div>
