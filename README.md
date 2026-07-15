@@ -55,8 +55,8 @@ I care about **reliability**, **DX**, and code that still makes sense six months
 ## 🏆 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/Sangram10c/workflow-builder">
-    <img src="https://readme-stats-fast.vercel.app/api/pin/?username=Sangram10c&repo=workflow-builder&theme=tokyonight&hide_border=true" alt="workflow-builder"/>
+  <a href="https://github.com/Sangram10c/AI-Digital-Twin-Platform">
+    <img src="https://readme-stats-fast.vercel.app/api/pin/?username=Sangram10c&repo=AI-Digital-Twin-Platform&theme=tokyonight&hide_border=true" alt="AI-Digital-Twin-Platform"/>
   </a>
   <a href="https://github.com/Sangram10c/real-time-cryptocurrency-price-monitoring">
     <img src="https://readme-stats-fast.vercel.app/api/pin/?username=Sangram10c&repo=real-time-cryptocurrency-price-monitoring&theme=tokyonight&hide_border=true" alt="crypto monitor"/>
